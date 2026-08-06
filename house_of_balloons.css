@@ -1,6 +1,6 @@
 /**
  * @name house of balloons by technoz3n
- * @description for power users, minimalists, and weeknd fans all around. bring the 707 out.
+ * @description for power users, minimalists, and weeknd fans all around.
  * @author techy/technoz3n
  * @version 1.0.2
  * @website https://technoz3n.nekoweb.org/
@@ -54,15 +54,15 @@ body {
 :root {
     --colors: on; 
     --pure-white: hsl(0, 0%, 95%);
-    --light-gray: hsl(0, 0%, 35%);
-    --medium-gray: hsl(0, 0%, 20%);
-    --dark-gray: hsl(0, 0%, 7%);
+    --light-gray: hsl(0, 0%, 64%);
+    --medium-gray: hsl(0, 0%, 36%);
+    --dark-gray: hsl(0, 0%, 13%);
     --text-0: var(--bg-4); 
     --text-1: var(--pure-white); 
     --text-2: var(--pure-white);
-    --text-3: var(--light-gray); 
-    --text-4: var(--medium-gray); 
-    --text-5: var(--dark-gray); 
+    --text-3: var(--pure-white); 
+    --text-4: var(--pure-white); 
+    --text-5: var(--light-gray); 
     --bg-1: hsla(0, 0%, 8%, 0.8); 
     --bg-2: hsla(0, 0%, 5%, 0.7); 
     --bg-3: hsla(0, 0%, 3%, 0.5); 
@@ -81,7 +81,7 @@ body {
     --mention-hover: linear-gradient(to right, color-mix(in hsl, var(--pure-white), transparent 95%) 40%, transparent); 
     --reply: linear-gradient(to right, color-mix(in hsl, var(--text-3), transparent 90%) 40%, transparent); 
     --reply-hover: linear-gradient(to right, color-mix(in hsl, var(--text-3), transparent 95%) 40%, transparent); 
-    --online: var(--light-gray); 
+    --online: var(--dark-gray); 
     --dnd: var(--dark-gray); 
     --idle: var(--medium-gray); 
     --streaming: var(--medium-gray); 
@@ -91,12 +91,12 @@ body {
     --border-hover: var(--active); 
     --button-border: hsl(0, 0%, 100%, 0.1); 
 }
-// server icons
+
 .wrapper__6e9f8 {
   border-radius: 50% !important;
   overflow: hidden !important;
 }
-// lowkey forgot what item this is but yeah it is related to server icons
+
 .item_f9f2ca {
   border-radius: 50% !important;
 }
