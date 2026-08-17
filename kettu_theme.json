@@ -4,5 +4,7 @@
   "author": "technoz3n",
   "version": "1.0.0",
   "spec": 1,
-  "main": "https://raw.githubusercontent.com/technoz3n/xothemes-discord/refs/heads/main/house_of_balloons.css"
+  "main": {
+    "css": "https://raw.githubusercontent.com/technoz3n/xothemes-discord/refs/heads/main/house_of_balloons.css"
+  }
 }
