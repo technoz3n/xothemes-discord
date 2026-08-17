@@ -3,15 +3,19 @@
   "description": "for power users, minimalists, and weeknd fans all around.",
   "author": "technoz3n",
   "version": "1.0.0",
-  "spec": 1,
+  "spec": 2,
   "semanticColors": {
-    "BACKGROUND_PRIMARY": [ "#141414" ],
-    "BACKGROUND_SECONDARY": [ "#0d0d0d" ],
-    "BACKGROUND_SECONDARY_ALT": [ "#080808" ],
-    "BACKGROUND_TERTIARY": [ "#000000" ],
-    "BACKGROUND_MOBILE_PRIMARY": [ "#141414" ],
-    "BACKGROUND_MOBILE_SECONDARY": [ "#0d0d0d" ],
-    "TEXT_NORMAL": [ "#f2f2f2" ],
-    "TEXT_MUTED": [ "#a3a3a3" ]
+    "BACKGROUND_PRIMARY": ["#141414"],
+    "BACKGROUND_SECONDARY": ["#0d0d0d"],
+    "BACKGROUND_SECONDARY_ALT": ["#080808"],
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#141414"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0d0d0d"]
+  },
+  "rawColors": {
+    "BRAND_500": "#141414",
+    "PRIMARY_600": "#0d0d0d",
+    "PRIMARY_700": "#080808",
+    "PRIMARY_800": "#000000"
   }
 }
