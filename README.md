@@ -7,4 +7,4 @@
 ![image preview](previews/Discord_aZKG2pZrNK.png)
 
 ## kiss land
-![image preview](previews/Discord_KQMVxvDiQp.pmg)
+![image preview](previews/Discord_KQMVxvDiQp.png)
